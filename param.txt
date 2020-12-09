@@ -4,7 +4,7 @@ Diameter : 2.8 m
 Number of stages : 4
 Lift off mass : 320 tonnes (XL)
 
-<<<<<<< HEAD
+
 
 Fourth Stage: PS4
 The PS4 is the uppermost stage of PSLV, comprising of two Earth storable
